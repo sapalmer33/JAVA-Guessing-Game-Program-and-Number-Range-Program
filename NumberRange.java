@@ -17,7 +17,7 @@ public class NumberRange {
     public static void main(String[] args) throws IOException {
         
      
-        Scanner sc = new Scanner(Paths.get("lab1b_input.txt"),"UTF-8");
+        Scanner sc = new Scanner(Paths.get("range.txt"),"UTF-8");
         while (sc.hasNext()){
 
 
