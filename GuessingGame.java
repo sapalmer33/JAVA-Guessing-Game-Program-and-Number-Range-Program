@@ -1,8 +1,8 @@
 
-package lab1a.sam.palmer;
+package guessing.game;
 import java.util.Scanner;
 
-public class Lab1ASamPalmer {
+public class GuessingGame {
 
 
     public static void main(String[] args) {
