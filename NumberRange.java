@@ -1,5 +1,5 @@
 
-package lab2asampalmer;
+package number.range;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -10,7 +10,7 @@ import java.io.*;
 import java.nio.file.Paths;
 
 
-public class Lab2asampalmer {
+public class NumberRange {
     
     
     
