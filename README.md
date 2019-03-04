@@ -20,7 +20,7 @@ Congratulations! You guessed the number in 4 guess(es)!
 
 
 Number Range
-For this second program (Number Range), the program will read a file named "range.txt". To import this file to be read, the program will use Java's scanner utility. This text file contains a list of scores from students within the range of 0 to 200. This file will be attached. The first number within this file represents the total number of scores and should not be read and should not be included in the range of numbers. After skipping over this number, the program will then read the remaining numbers. These ranges are as followed: 0-24, 25-49, 50-74, 75-99, 100-124, 125-149, 150-174, and 175-200. Once calculated, the program will then output the total scores within each range. 
+For this second program (Number Range), the program will read a file named "range.txt". To import this file to be read, the program will use Java's scanner utility. The text file also needs to be inserted directly into the programs source file. This text file contains a list of scores from students within the range of 0 to 200. This file will be attached. The first number within this file represents the total number of scores and should not be read and should not be included in the range of numbers. After skipping over this number, the program will then read the remaining numbers. These ranges are as followed: 0-24, 25-49, 50-74, 75-99, 100-124, 125-149, 150-174, and 175-200. Once calculated, the program will then output the total scores within each range. 
 The output of the following program is below: 
 
 Within "range.txt":
